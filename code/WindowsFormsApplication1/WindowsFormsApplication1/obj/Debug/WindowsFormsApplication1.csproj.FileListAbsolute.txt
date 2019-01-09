@@ -1,0 +1,190 @@
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\cvextern.dll
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\msvcp140.dll
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\opencv_ffmpeg310.dll
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\opencv_ffmpeg310_64.dll
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\vcruntime140.dll
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Antlr3.Runtime.dll
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Emgu.CV.DebuggerVisualizers.dll
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2013.dll
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Emgu.CV.UI.dll
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Emgu.CV.UI.GL.dll
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Emgu.CV.World.dll
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.Aruco.exe
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.CameraCapture.exe
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.FaceDetection.exe
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.FaceDetectionVB.exe
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.FeatureMatching.exe
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.HelloWorld.exe
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.ImageDatabase.exe
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.LicensePlateRecognition.exe
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.MotionDetection.exe
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.OCR.exe
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.PedestrianDetection.exe
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.PlanarSubdivision.exe
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.ShapeDetection.exe
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.Simlpe3DReconstruction.exe
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.Simple3DReconstruction.exe
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.TrafficSignRecognition.exe
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.VideoSurveilance.exe
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.Webservice_Client.exe
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.Webservice_Host.exe
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Iesi.Collections.dll
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\log4net.dll
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\NHibernate.ByteCode.LinFu.dll
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\NHibernate.dll
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Stitching.exe
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.DLL
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ZedGraph.dll
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Emgu.CV.DebuggerVisualizers.pdb
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Emgu.CV.UI.pdb
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Emgu.CV.UI.xml
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Emgu.CV.UI.GL.xml
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Emgu.CV.World.pdb
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Emgu.CV.World.xml
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.CameraCapture.pdb
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.FaceDetection.pdb
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.FaceDetectionVB.pdb
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.FaceDetectionVB.xml
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.FeatureMatching.pdb
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.HelloWorld.pdb
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.ImageDatabase.pdb
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.LicensePlateRecognition.pdb
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.MotionDetection.pdb
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.OCR.pdb
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.PedestrianDetection.pdb
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.PlanarSubdivision.pdb
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.ShapeDetection.pdb
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.Simlpe3DReconstruction.pdb
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.TrafficSignRecognition.pdb
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.VideoSurveilance.pdb
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.Webservice_Client.pdb
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.Webservice_Host.pdb
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Stitching.pdb
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ZedGraph.xml
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\zh-CN\ZedGraph.resources.dll
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+c:\users\mukaddes\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\cvextern.dll
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\msvcp140.dll
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\opencv_ffmpeg310.dll
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\opencv_ffmpeg310_64.dll
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\vcruntime140.dll
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Emgu.CV.DebuggerVisualizers.dll
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2013.dll
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Emgu.CV.World.dll
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.Aruco.exe
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.CameraCapture.exe
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.FaceDetection.exe
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.FaceDetectionVB.exe
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.FeatureMatching.exe
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.HelloWorld.exe
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.ImageDatabase.exe
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.LicensePlateRecognition.exe
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.MotionDetection.exe
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.OCR.exe
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.PedestrianDetection.exe
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.PlanarSubdivision.exe
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.ShapeDetection.exe
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.Simlpe3DReconstruction.exe
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.Simple3DReconstruction.exe
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.TrafficSignRecognition.exe
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.VideoSurveilance.exe
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.Webservice_Client.exe
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.Webservice_Host.exe
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Iesi.Collections.dll
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\log4net.dll
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\NHibernate.ByteCode.LinFu.dll
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\NHibernate.dll
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Stitching.exe
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.DLL
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ZedGraph.dll
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Emgu.CV.DebuggerVisualizers.pdb
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Emgu.CV.UI.pdb
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Emgu.CV.World.pdb
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Emgu.CV.World.xml
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.CameraCapture.pdb
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.FaceDetection.pdb
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.FaceDetectionVB.pdb
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.FaceDetectionVB.xml
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.FeatureMatching.pdb
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.HelloWorld.pdb
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.ImageDatabase.pdb
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.LicensePlateRecognition.pdb
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.MotionDetection.pdb
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.OCR.pdb
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.PedestrianDetection.pdb
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.PlanarSubdivision.pdb
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.ShapeDetection.pdb
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.Simlpe3DReconstruction.pdb
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.TrafficSignRecognition.pdb
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.VideoSurveilance.pdb
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.Webservice_Client.pdb
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.Webservice_Host.pdb
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Stitching.pdb
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ZedGraph.xml
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\zh-CN\ZedGraph.resources.dll
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Mukaddes\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Mukaddes\Dropbox\About Master\Sayısal Video İşleme\svi_odev_2\Odev2\kod\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Mukaddes\Dropbox\About Master\Sayısal Video İşleme\svi_odev_2\Odev2\kod\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Mukaddes\Dropbox\About Master\Sayısal Video İşleme\svi_odev_2\Odev2\kod\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Mukaddes\Dropbox\About Master\Sayısal Video İşleme\svi_odev_2\Odev2\kod\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\cvextern.dll
+C:\Users\Mukaddes\Dropbox\About Master\Sayısal Video İşleme\svi_odev_2\Odev2\kod\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\msvcp140.dll
+C:\Users\Mukaddes\Dropbox\About Master\Sayısal Video İşleme\svi_odev_2\Odev2\kod\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\opencv_ffmpeg310.dll
+C:\Users\Mukaddes\Dropbox\About Master\Sayısal Video İşleme\svi_odev_2\Odev2\kod\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\opencv_ffmpeg310_64.dll
+C:\Users\Mukaddes\Dropbox\About Master\Sayısal Video İşleme\svi_odev_2\Odev2\kod\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\vcruntime140.dll
+C:\Users\Mukaddes\Dropbox\About Master\Sayısal Video İşleme\svi_odev_2\Odev2\kod\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Mukaddes\Dropbox\About Master\Sayısal Video İşleme\svi_odev_2\Odev2\kod\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Mukaddes\Dropbox\About Master\Sayısal Video İşleme\svi_odev_2\Odev2\kod\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Emgu.CV.DebuggerVisualizers.pdb
+C:\Users\Mukaddes\Dropbox\About Master\Sayısal Video İşleme\svi_odev_2\Odev2\kod\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Emgu.CV.UI.pdb
+C:\Users\Mukaddes\Dropbox\About Master\Sayısal Video İşleme\svi_odev_2\Odev2\kod\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Mukaddes\Dropbox\About Master\Sayısal Video İşleme\svi_odev_2\Odev2\kod\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\Mukaddes\Dropbox\About Master\Sayısal Video İşleme\svi_odev_2\Odev2\kod\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Emgu.CV.World.pdb
+C:\Users\Mukaddes\Dropbox\About Master\Sayısal Video İşleme\svi_odev_2\Odev2\kod\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Emgu.CV.World.xml
+C:\Users\Mukaddes\Dropbox\About Master\Sayısal Video İşleme\svi_odev_2\Odev2\kod\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.CameraCapture.pdb
+C:\Users\Mukaddes\Dropbox\About Master\Sayısal Video İşleme\svi_odev_2\Odev2\kod\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.FaceDetection.pdb
+C:\Users\Mukaddes\Dropbox\About Master\Sayısal Video İşleme\svi_odev_2\Odev2\kod\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.FaceDetectionVB.pdb
+C:\Users\Mukaddes\Dropbox\About Master\Sayısal Video İşleme\svi_odev_2\Odev2\kod\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.FaceDetectionVB.xml
+C:\Users\Mukaddes\Dropbox\About Master\Sayısal Video İşleme\svi_odev_2\Odev2\kod\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.FeatureMatching.pdb
+C:\Users\Mukaddes\Dropbox\About Master\Sayısal Video İşleme\svi_odev_2\Odev2\kod\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.HelloWorld.pdb
+C:\Users\Mukaddes\Dropbox\About Master\Sayısal Video İşleme\svi_odev_2\Odev2\kod\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.ImageDatabase.pdb
+C:\Users\Mukaddes\Dropbox\About Master\Sayısal Video İşleme\svi_odev_2\Odev2\kod\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.LicensePlateRecognition.pdb
+C:\Users\Mukaddes\Dropbox\About Master\Sayısal Video İşleme\svi_odev_2\Odev2\kod\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.MotionDetection.pdb
+C:\Users\Mukaddes\Dropbox\About Master\Sayısal Video İşleme\svi_odev_2\Odev2\kod\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.OCR.pdb
+C:\Users\Mukaddes\Dropbox\About Master\Sayısal Video İşleme\svi_odev_2\Odev2\kod\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.PedestrianDetection.pdb
+C:\Users\Mukaddes\Dropbox\About Master\Sayısal Video İşleme\svi_odev_2\Odev2\kod\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.PlanarSubdivision.pdb
+C:\Users\Mukaddes\Dropbox\About Master\Sayısal Video İşleme\svi_odev_2\Odev2\kod\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.ShapeDetection.pdb
+C:\Users\Mukaddes\Dropbox\About Master\Sayısal Video İşleme\svi_odev_2\Odev2\kod\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.Simlpe3DReconstruction.pdb
+C:\Users\Mukaddes\Dropbox\About Master\Sayısal Video İşleme\svi_odev_2\Odev2\kod\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.TrafficSignRecognition.pdb
+C:\Users\Mukaddes\Dropbox\About Master\Sayısal Video İşleme\svi_odev_2\Odev2\kod\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.VideoSurveilance.pdb
+C:\Users\Mukaddes\Dropbox\About Master\Sayısal Video İşleme\svi_odev_2\Odev2\kod\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.Webservice_Client.pdb
+C:\Users\Mukaddes\Dropbox\About Master\Sayısal Video İşleme\svi_odev_2\Odev2\kod\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Example.Webservice_Host.pdb
+C:\Users\Mukaddes\Dropbox\About Master\Sayısal Video İşleme\svi_odev_2\Odev2\kod\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Stitching.pdb
+C:\Users\Mukaddes\Dropbox\About Master\Sayısal Video İşleme\svi_odev_2\Odev2\kod\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ZedGraph.xml
+C:\Users\Mukaddes\Dropbox\About Master\Sayısal Video İşleme\svi_odev_2\Odev2\kod\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+C:\Users\Mukaddes\Dropbox\About Master\Sayısal Video İşleme\svi_odev_2\Odev2\kod\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\zh-CN\ZedGraph.resources.dll
+C:\Users\Mukaddes\Dropbox\About Master\Sayısal Video İşleme\svi_odev_2\Odev2\kod\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Mukaddes\Dropbox\About Master\Sayısal Video İşleme\svi_odev_2\Odev2\kod\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Mukaddes\Dropbox\About Master\Sayısal Video İşleme\svi_odev_2\Odev2\kod\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Mukaddes\Dropbox\About Master\Sayısal Video İşleme\svi_odev_2\Odev2\kod\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
